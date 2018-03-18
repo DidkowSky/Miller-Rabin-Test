@@ -1,0 +1,6 @@
+D:\Szkoła\Arek\MillerRabinTest\MillerRabinTest\bin\Debug\MillerRabinTest.exe.config
+D:\Szkoła\Arek\MillerRabinTest\MillerRabinTest\bin\Debug\MillerRabinTest.exe
+D:\Szkoła\Arek\MillerRabinTest\MillerRabinTest\bin\Debug\MillerRabinTest.pdb
+D:\Szkoła\Arek\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.csprojResolveAssemblyReference.cache
+D:\Szkoła\Arek\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.exe
+D:\Szkoła\Arek\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.pdb
